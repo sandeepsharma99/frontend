@@ -1,9 +1,10 @@
 import React from 'react'
+import HomePage from './landing_page/home/HomePage'
 
 const App = () => {
   return (
     <div>
-      <h1>hello</h1>
+      <HomePage/>
     </div>
   )
 }
