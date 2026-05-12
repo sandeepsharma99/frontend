@@ -20,6 +20,8 @@ const Stats = () => {
           <div>
             <a href="" className='mx-5' style={{textDecoration:"None"}}>Explore our products <i class="fa-solid fa-arrow-right"></i></a>
             <a href="" style={{textDecoration:"None"}}>Try Kite demo <i class="fa-solid fa-arrow-right"></i></a>
+            <a href="" className='mx-5' style={{textDecoration:"None"}}>Explore our products <i className="fa-solid fa-arrow-right"></i></a>
+            <a href="" style={{textDecoration:"None"}}>Try Kite demo <i className="fa-solid fa-arrow-right"></i></a>
           </div>
         </div>
       </div>

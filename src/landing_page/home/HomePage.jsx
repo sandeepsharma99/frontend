@@ -12,14 +12,14 @@ import Navbar from '../Navbar'
 const HomePage = () => {
   return (
     <>
-        <Navbar/>
+        
         <Hero/>
         <Award/>
         <Stats/>
         <Pricing/>
         <Education/>
         <OpenAcount/>
-        <Footer/>
+        
     </>
   )
 }
