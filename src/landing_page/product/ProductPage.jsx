@@ -36,6 +36,7 @@ const ProductPage = () => {
         productName="Kite Connect API"
         productDescription="Build powerful trading platforms and experiences with our super simple HTTP/JSON APIs. If you are a startup, build your investment app and showcase it to our clientbase."
         tryDemo=""
+        learMore=""
         />
       <LeftSection
         imageURL="media/images/varsity.png"

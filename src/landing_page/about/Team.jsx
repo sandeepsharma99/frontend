@@ -10,7 +10,7 @@ const Team = () => {
         className="row p-3  text-muted  "
         style={{ fontSize: "1.2em", lineHeight: "1.8" }}
       >
-        <div className="col-6 p-5 mt-2 text-center">
+        <div className="col-6 p-5 mt-2                                                                                                     text-center">
           <img
             src="media/images/nithinKamath.jpg"
             alt=""
